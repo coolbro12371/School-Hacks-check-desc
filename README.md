@@ -12,3 +12,5 @@ I found a hack that could change securly. (only for securly)
 
 NOTICE: I came up with this idea and I am very smart if anyone claims or states that this was there idea i will prove them wrong and i have date and time stamps on when this was created.
 NOTICE2: Your actions doesn't effect me do this at your own responsibilty.
+# New Helpers
+SwagRyxe
