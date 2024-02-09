@@ -2,8 +2,7 @@
 I found a hack that could change securly. (only for securly)
 
 # Steps
-
-1. Email me and I will tell u bc it is gonna get leaked and people will find out
+just copy the code from script.js and then go to securly.com and then double tap on your moving mouse pad thingy and it will say "Inspect" at the bottom of the list then you want to click console and then paste the code into the console when your on securly.com and hit enter. It should then have a button if so click it ONE TIME then you can close it and get to play anything you want 
 
 NOTICE: I came up with this idea and I am very smart if anyone claims or states that this was there idea i will prove them wrong and i have date and time stamps on when this was created.
 NOTICE2: Your actions doesn't effect me do this at your own responsibilty.
@@ -22,7 +21,7 @@ SwagRyxe
 
 - 👨‍💻 All of my projects are available at [https://github.com/coolbro12371](https://github.com/coolbro12371)
 
-- 📫 How to reach me **caleb.schall@perrypanthers.org**
+- 📫 How to reach me: NO MORE EMAILS PLEASE 
 
 - ⚡ Fun fact **I am smarter at technology than you might think**
 
